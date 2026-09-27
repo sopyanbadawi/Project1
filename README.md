@@ -9,7 +9,7 @@ Proyek Analisis Data Eksploratif (EDA) untuk mata kuliah **Probabilitas dan Stat
 | No | Nama | NRP |
 | :---: | :--- | :---: |
 | 1 | **Ahmad Sofyan Badawi** | `5027261065` |
-| 2 | **Arif** | `5027261___` |
+| 2 | **Arif Budianto** | `5027261029` |
 | 3 | **Nanda** | `5027261___` |
 
 ---
